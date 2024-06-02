@@ -1,1 +1,1 @@
-# jarvis-vitual-assitant
+# jarvis-vitual-assistant
